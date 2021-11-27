@@ -1,4 +1,8 @@
 #include "Header.h"
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Rafael Alvarez-Romero
+ */
 
 int main() {
 	double root1, root2; 
